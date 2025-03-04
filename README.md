@@ -33,37 +33,44 @@ Effective cost control ensures that a software project remains financially feasi
 - Has client involvement throughout development
 - Continuous testing during development
 - Less emphasis on documentation
+  
 **Advantages**
 - Faster delivery of software
 - Prototype is available in the early development stages
 - Continuous feedback improves product quality and user satisfaction
-- High adaptability to changing requirements  
+- High adaptability to changing requirements
+  
 **Disadvantages**
 - Difficult to manage in large projects
 - Requires active feedback from clients
-- Less predictability in budget and timeline  
+- Less predictability in budget and timeline
+  
 **Waterfall**
   - Employs a sequential and linear approach
   - Low flexibility
   - Preferred for large-scale projects with well-defined requirements
   - Client involvement is only in the beginning and end phases
   - Testing occurs at the end of development
-  - Heavy emphasis on documentation 
+  - Heavy emphasis on documentation
+    
 **Advantages**
 - Clear and defined documentation
 - Works well for projects with fixed requirements
 - Easier to manage large teams and projects
+  
 **Disadvantages**
 - Difficult to accommodate changes mid-project
-- Cost of fixing bugs may be high do to late testing
+- Cost of fixing bugs may be high due to late testing
 - Long development cycle before delivering a working product
   
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each? 
+
 **Agile**
 1. Startups and rapid development where quick iterations and market testing are required
 2. Dynamic projects that have changing requirements
 3. Projects that need continuous feedback from clients
 - Example: Developing a fintech app where the customer feedback dictates the features of the app
+  
 **Waterfall**
  1. Large-scale enterprise software where strict regulatory compliance is needed
  2. Hardware-integrated systems where changes are costly
@@ -83,6 +90,7 @@ Effective cost control ensures that a software project remains financially feasi
 3. Improves security and compliance with industry regulations
    
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
 **Benefits of defining the project scope**
 1. Ensures stakeholders have clear expectations
 2. Prevents scope creep
@@ -91,6 +99,7 @@ Effective cost control ensures that a software project remains financially feasi
 5. Helps in budget control
 
 **Work Break Structure** is a visual, hierarchical, and deliverable-oriented deconstruction of a project used by project managers to break projects into smaller actionable components
+
 **Why WBS is useful**
 - Improves project tracking and milestone setting
 - Enhances team collaboration by assigning responsibilities
@@ -116,11 +125,13 @@ Effective cost control ensures that a software project remains financially feasi
 3. High costs
 4. Security risks
 5. Scalability
+   
 **Impact on target audience**
 1. Loss of time wasted on manual processes
 2. Missed revenue or unnecessary expenses
 3. Poor user experience leading to frustration
-4. Competitive disadvantage     
+4. Competitive disadvantage
+       
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
 1. Ensures the solution is user-centric and addresses the pain points of users
